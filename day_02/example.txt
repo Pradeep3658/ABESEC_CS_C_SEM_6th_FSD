@@ -1,0 +1,1 @@
+This data has been written through sync func:writeFileSync()This data has been appended through sync fun of fsThis data has been appended through sync fun of fs
